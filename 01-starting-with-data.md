@@ -43,7 +43,7 @@ To load our inflammation data, first we need to tell our computer where is the f
 
 
 ~~~{.r}
-setwd("~/Desktop/r-novice-inflammation/)
+setwd("~/Desktop/r-novice-inflammation/")
 ~~~
 
 Just like in the Unix Shell, we type the command and then press `Enter` (or `return`).
